@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d3f8875d-3b69-4f62-b38b-6a2db7f0eb3a/resourceGroups/NewResourceGroup/providers/Microsoft.Web/sites/challengenews",
+    "appService.deploySubpath": "."
+}
